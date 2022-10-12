@@ -50,14 +50,9 @@
   
   .product-slideshow {
     display: flex;
+    align-items: center;
   }
   
-  .product-slideshow button {
-    height: 35px;
-    position: relative;
-    top: 50%;
-  }
-
   .product-image {
     width: 100%;
   }
